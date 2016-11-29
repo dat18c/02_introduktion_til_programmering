@@ -3,6 +3,9 @@
 _Module goals: Introduction to this semesters SWC, what are the learning goals for this semester_
 Produce your first Java Program.
 
+## Curiculum
+* 
+
 Introduction to Java
 
 * History
@@ -22,6 +25,7 @@ Introduction to Java
 
 ## Installing JGrasp
 
+* [Walkthrough JGeasp](https://www.youtube.com/watch?v=DHICqIYV33k)
 
 
 ## Making your code readable - _Indentation_
