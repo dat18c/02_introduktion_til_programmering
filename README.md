@@ -12,3 +12,5 @@ Introduction to Java
     * _Google Translate_
 
 ## Instaling Java Development Kid (JDK) on your Machine
+
+## Making your code readable - _Indentation_
