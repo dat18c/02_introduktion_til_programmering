@@ -5,8 +5,10 @@ _Module goals: Introduction to this semesters SWC, what are the learning goals f
 Introduction to Java
 
 * History
+   * What is it used for
+      * Android
+      * banks
 * Runtime Enviroment
-* Android
 * Development Kid (JDK)
  * Compiling
     * _Google Translate_
