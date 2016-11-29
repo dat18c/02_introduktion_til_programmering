@@ -24,6 +24,7 @@ Introduction to Java
 ### Compiling and Running your program from CMD (win) or Terminal (Mac)
 
 ## Installing JGrasp
+* [Download](http://spider.eng.auburn.edu/user-cgi/grasp/grasp.pl?;dl=download_jgrasp.html)
 
 * [Walkthrough JGeasp](https://www.youtube.com/watch?v=DHICqIYV33k)
 
