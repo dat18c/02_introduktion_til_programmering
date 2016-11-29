@@ -1,6 +1,7 @@
 # Module 01 Introduction
 
 _Module goals: Introduction to this semesters SWC, what are the learning goals for this semester_
+Produce your first Java Program.
 
 Introduction to Java
 
@@ -14,5 +15,13 @@ Introduction to Java
     * _Google Translate_
 
 ## Instaling Java Development Kid (JDK) on your Machine
+
+### Writing _Hello World_ in Notepad (Win) or TextEdit (Mac)
+
+### Compiling and Running your program from CMD (win) or Terminal (Mac)
+
+## Installing JGrasp
+
+
 
 ## Making your code readable - _Indentation_
