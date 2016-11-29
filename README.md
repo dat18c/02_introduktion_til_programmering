@@ -27,7 +27,7 @@ Introduction to Java
 
 * [Walkthrough JGeasp](https://www.youtube.com/watch?v=DHICqIYV33k)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DHICqIYV33k" frameborder="0" allowfullscreen></iframe>
+[![JGrasp](https://img.youtube.com/vi/DHICqIYV33k/0.jpg)](https://www.youtube.com/watch?v=DHICqIYV33k)
 
 
 ## Making your code readable - _Indentation_
