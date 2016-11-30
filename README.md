@@ -30,5 +30,9 @@ Introduction to Java
 
 [![JGrasp](https://img.youtube.com/vi/DHICqIYV33k/0.jpg)](https://www.youtube.com/watch?v=DHICqIYV33k)
 
+## Hello World
+* [Video](https://drive.google.com/file/d/0BwvBqLiRvW5cTWpRYkU2QVhYYmM/view)
+* [Literature](http://introcs.cs.princeton.edu/java/11hello/)
+
 
 ## Making your code readable - _Indentation_
