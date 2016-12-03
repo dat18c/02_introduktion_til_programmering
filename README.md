@@ -19,6 +19,8 @@ Introduction to Java
 
 ## Instaling Java Development Kid (JDK) on your Machine
 
+* [Installing JDK](/instalation.md)
+
 ### Writing _Hello World_ in Notepad (Win) or TextEdit (Mac)
 
 ### Compiling and Running your program from CMD (win) or Terminal (Mac)
