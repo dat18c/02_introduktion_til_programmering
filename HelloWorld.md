@@ -8,4 +8,4 @@ To create your first Java Program that prints out "Hello World" to the console, 
 
 And read and follow along with the following text:
 
-* [Your First Java Program: Hello World]()
+* [Your First Java Program: Hello World](YourFirstJavaProgramHelloWorld.md)
