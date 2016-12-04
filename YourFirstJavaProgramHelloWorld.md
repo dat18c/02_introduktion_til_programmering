@@ -22,7 +22,8 @@ The first step creates the program; the second translates it into a language mor
 
 Creating a Java program. A program is nothing more than a sequence of characters, like a sentence, a paragraph, or a poem. To create one, we need only define that sequence characters using a text editor in the same way as we do for email. HelloWorld.java is an example program. Type these character into your text editor and save it into a file named _HelloWorld.java_.    
 ```java
-public class HelloWorld {
+public class HelloWorld 
+{
    public static void main(String[] args) {
       // Prints "Hello, World" in the terminal window.
       System.out.println("Hello, World");
