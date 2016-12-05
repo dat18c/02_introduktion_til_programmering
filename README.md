@@ -35,6 +35,7 @@ Introduction to Java
 ## Hello World
 * [Video](https://drive.google.com/file/d/0BwvBqLiRvW5cTWpRYkU2QVhYYmM/view)
 * [Literature](http://introcs.cs.princeton.edu/java/11hello/)
+* [Lesson: A Closer Look at the "Hello World!" Application](https://docs.oracle.com/javase/tutorial/getStarted/application/index.html)
 
 
 ## Making your code readable - _Indentation_
