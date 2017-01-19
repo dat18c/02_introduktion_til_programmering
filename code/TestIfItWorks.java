@@ -6,13 +6,13 @@ public class TestIfItWorks
    {	
       // We jump-start to have a little fun and see what we can do 
       // AND understand in a little while.
-   	// Most or all of this code might not make sense right now. 
+   	  // Most or all of this code might not make sense right now. 
       // That is ok. You will understand this later.
    
       //show a dialog where user can enter text, and save the text in a variable
       String name = JOptionPane.showInputDialog("What is your name");
        
-   	// show a Yes, No, Cancel dialog, and save the answer in a variable
+   	  // show a Yes, No, Cancel dialog, and save the answer in a variable
       int likeCake = JOptionPane.showConfirmDialog(null, "Do you like cake " + name); 
    	
       // print out in console the name
