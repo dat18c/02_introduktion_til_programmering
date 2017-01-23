@@ -21,5 +21,7 @@
     _This tutorial differs from what you will do on your computer. You will use VS Code, this tutorial uses NotePad. But the basic idea is the same._    
 * [Lesson: A Closer Look at the "Hello World!" Application](https://docs.oracle.com/javase/tutorial/getStarted/application/index.html)
 
+[referat](https://kea-cs.slack.com/files/stefanos/F2BUK45BN/pasted_image_at_2016_09_15_11_08_am.png)
+
 
 
