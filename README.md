@@ -20,7 +20,6 @@ Produce your first Java Program.
 * [Walkthrough VS Code](https://code.visualstudio.com/docs/introvideos/basics)
 
 ## Hello World
-* [Video](https://drive.google.com/file/d/0BwvBqLiRvW5cTWpRYkU2QVhYYmM/view)
 * [Lesson: A Closer Look at the "Hello World!" Application](https://docs.oracle.com/javase/tutorial/getStarted/application/index.html)
 
 
