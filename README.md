@@ -1,25 +1,18 @@
-# Module 01 Introduction
+# 1 Introduction
 
 _Module goals: Introduction to this semesters SWC, what are the learning goals for this semester_
 Produce your first Java Program.
 
 ## Curiculum
-* 
+* Learning the Java Language https://docs.oracle.com/javase/tutorial/java/TOC.html 
 
 Introduction to Java
 
-* History
-   * What is it used for
-      * Android
-      * banks
-* Runtime Enviroment
-* Development Kid (JDK)
- * Compiling
-    * _Google Translate_
+
 
 ## Instaling Java Development Kid (JDK) on your Machine
 
-* [Installing JDK](/installation.md)
+* [Installing JDK](literature/installation.md)
 
 ### Writing _Hello World_ in Notepad (Win) or TextEdit (Mac)
 
@@ -38,4 +31,4 @@ Introduction to Java
 * [Lesson: A Closer Look at the "Hello World!" Application](https://docs.oracle.com/javase/tutorial/getStarted/application/index.html)
 
 
-## Making your code readable - _Indentation_
+
