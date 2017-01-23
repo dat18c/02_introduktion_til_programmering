@@ -12,7 +12,8 @@ Introduction to Java
 
 ## Instaling Java Development Kid (JDK) on your Machine
 
-* [Installing JDK](literature/installation.md)
+* [Download](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+* [Installing JDK - Tutorials](literature/installation.md)
 
 ### Writing _Hello World_ in Notepad (Win) or TextEdit (Mac)
 
