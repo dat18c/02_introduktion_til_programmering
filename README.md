@@ -13,15 +13,10 @@ Produce your first Java Program.
 
 ### Writing _Hello World_ 
 * [Hello World](https://docs.oracle.com/javase/tutorial/getStarted/cupojava/win32.html)    
-    _This tutorial differs from what you will do on your computer. You will use VS Code, this tutorial uses NotePad. But the basic idea is the same._
-### Compiling and Running your program from CMD (win) or Terminal (Mac)
+    _This tutorial differs from what you will do on your computer. You will use VS Code, this tutorial uses NotePad. But the basic idea is the same._    
+* [Lesson: A Closer Look at the "Hello World!" Application](https://docs.oracle.com/javase/tutorial/getStarted/application/index.html)
 
 ## Installing VS Code
 * [Download](https://code.visualstudio.com/download)
 * [Walkthrough VS Code](https://code.visualstudio.com/docs/introvideos/basics)
-
-## Hello World
-* [Lesson: A Closer Look at the "Hello World!" Application](https://docs.oracle.com/javase/tutorial/getStarted/application/index.html)
-
-
 
