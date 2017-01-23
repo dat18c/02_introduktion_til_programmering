@@ -11,7 +11,9 @@ Produce your first Java Program.
 * [Download](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 * [Installing JDK - Tutorials](literature/installation.md)
 
-### Writing _Hello World_ in Notepad (Win) or TextEdit (Mac)
+### Writing _Hello World_ 
+* [Hello World](https://docs.oracle.com/javase/tutorial/getStarted/cupojava/win32.html)
+    _This tutorial differs from what you will do on your computer. You will use VS Code, this tutorial uses NotePad. But the basic idea is the same.
 
 ### Compiling and Running your program from CMD (win) or Terminal (Mac)
 
