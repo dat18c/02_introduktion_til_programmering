@@ -1,4 +1,4 @@
-# 2 Introduction to programing 
+# #2 Introduction to programing 
 
 ##Goals of today: 
 * Introduction to this semester.
