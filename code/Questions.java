@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class TestIfItWorks
+public class Questions
 {
    public static void main(String[] args)
    {	
