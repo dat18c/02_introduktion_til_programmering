@@ -1,6 +1,6 @@
 # #2 Introduction to programing 
 
-##Goals of today: 
+## Goals of today: 
 * Introduction to this semester.
 * Install the tools that you will you work with throughout this semester.
 * Produce your first Java Program.
