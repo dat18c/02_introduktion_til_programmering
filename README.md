@@ -1,4 +1,4 @@
-# Dag 2 Introduction to programing 
+# Dag 2: Introduction to programing 
 
 ## Goals of today: 
 * Introduction to this semester.
