@@ -12,16 +12,11 @@
 * [Download](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 * [Installing JDK - Tutorials](literature/installation.md)
 
-## Installing VS Code
-* [Download](https://code.visualstudio.com/download)
-* [Walkthrough VS Code](https://code.visualstudio.com/docs/introvideos/basics)
+## Installing JGrasp
+* [Download](http://spider.eng.auburn.edu/user-cgi/grasp/grasp.pl?;dl=download_jgrasp.html)
+* [Walkthrough ](https://www.youtube.com/watch?v=DHICqIYV33k)
 
 ### Writing _Hello World_ 
 * [Hello World](https://docs.oracle.com/javase/tutorial/getStarted/cupojava/win32.html)    
-    _This tutorial differs from what you will do on your computer. You will use VS Code, this tutorial uses NotePad. But the basic idea is the same._    
+    _This tutorial differs from what you will do on your computer. You will use JGrasp, this tutorial uses NotePad. But the basic idea is the same._    
 * [Lesson: A Closer Look at the "Hello World!" Application](https://docs.oracle.com/javase/tutorial/getStarted/application/index.html)
-
-[Todays summary on Ryver](https://kea.ryver.com/index.html#search)
-
-
-
