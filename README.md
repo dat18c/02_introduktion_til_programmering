@@ -9,7 +9,7 @@
 * Learning the Java Language https://docs.oracle.com/javase/tutorial/java/TOC.html 
 
 ## Instaling Java Development Kit (JDK) on your Machine
-* [Download](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+* [Download](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 * [Installing JDK - Tutorials](literature/installation.md)
 
 ## Installing JGrasp
