@@ -12,7 +12,7 @@
 * [Installing JDK - Tutorials](literature/installation.md)
 
 ## Installing JGrasp
-* [Download](http://www.jgrasp.orgl)
+* [Download](http://www.jgrasp.org)
 * [Walkthrough ](https://www.youtube.com/watch?v=DHICqIYV33k)
 
 ### Writing _Hello World_ 
